@@ -17,5 +17,5 @@ jobs:
         run:  date
 
       - name: Print Goodbye
-      - run:  echo "Workflow completed successfully!"
+        run:  echo "Workflow completed successfully!"
 
